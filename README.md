@@ -1,1 +1,1 @@
-Readme
+YouTube Capstone(1) shows videos views and data for videos in the USA viewed on YouTube in 2017. Findings are interesting to show that although the media pushes politics on us people are not concerned enough with it to research it on YouTube but instead still seek media and entertainment as main focal points of using YouTube. Also, data shows that YouTube is growing as a search engine choice and in optimization.
